@@ -1,6 +1,5 @@
 # Open Source game development
 
-# Open Source game development
 ## Intro
 ### What’s this about?
 The current state of game development is in shambles. The big corpo game studios are all clearly in the game for just pure gains. That’s how the corporations work by design. They need to make money to feed the corporate machine. No matter the intention of the actual team making a game the overlords will always push quotas onto them to fill with the sole intent of making as much as possible for as little cost as possible. That trickles down the whole system into the actual design of game systems. This is visible the most in multiplayer games especially if they are competitive. To a point one can argue that even indie game devs do the same thing when money gets involved. Just a quick scroll through Kickstarter proves the point and its long history of projects funded that never saw the light of the day. Some of that is inexperience and over-promise. The reasons for those failures have been discussed elsewhere; that's not the point here.
